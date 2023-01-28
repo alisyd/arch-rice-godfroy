@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean",
+    "prettier.requireConfig": true,
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true
+}

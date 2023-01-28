@@ -1,0 +1,34 @@
+:root {
+    --spice-button-disabled: #535353;
+    --spice-selected-row: #ffffff;
+    --spice-main: #11121d;
+    --spice-button: #7da6ff;
+    --spice-notification: #7da6ff;
+    --spice-misc: #7f7f7f;
+    --spice-tab-active: #333333;
+    --spice-subtext: #b3b3b3;
+    --spice-shadow: #11121d;
+    --spice-sidebar: #11121d;
+    --spice-card: #11121d;
+    --spice-text: #7da6ff;
+    --spice-button-active: #7daeff;
+    --spice-notification-error: #e22134;
+    --spice-player: #11121d;
+
+    --spice-rgb-button-disabled: 83,83,83;
+    --spice-rgb-selected-row: 255,255,255;
+    --spice-rgb-main: 18,18,18;
+    --spice-rgb-button: 29,185,84;
+    --spice-rgb-notification: 70,135,214;
+    --spice-rgb-misc: 127,127,127;
+    --spice-rgb-tab-active: 51,51,51;
+    --spice-rgb-subtext: 179,179,179;
+    --spice-rgb-shadow: 0,0,0;
+    --spice-rgb-sidebar: 0,0,0;
+    --spice-rgb-card: 40,40,40;
+    --spice-rgb-text: 255,255,255;
+    --spice-rgb-button-active: 30,215,96;
+    --spice-rgb-notification-error: 226,33,52;
+    --spice-rgb-player: 24,24,24;
+
+}

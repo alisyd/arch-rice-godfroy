@@ -1,0 +1,18 @@
+2023-01-06 20:20:08.156 [info] Log level: Info
+2023-01-06 20:20:08.156 [info] Validating found git in: "git"
+2023-01-06 20:20:08.156 [info] Using git "2.38.1" from "git"
+2023-01-06 20:20:08.156 [info] > git rev-parse --show-toplevel [4ms]
+2023-01-06 20:20:08.156 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-06 20:20:08.156 [info] Open repository: /home/syed/alihyder/projects/osmania-results
+2023-01-06 20:20:08.156 [info] > git config --get commit.template [4ms]
+2023-01-06 20:20:08.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-01-06 20:20:08.183 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-06 20:20:08.285 [info] > git status -z -uall [110ms]
+2023-01-06 20:20:08.303 [info] > git config --get commit.template [1ms]
+2023-01-06 20:20:08.310 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-01-06 20:20:08.331 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-01-06 20:20:08.394 [info] > git status -z -uall [78ms]
+2023-01-06 20:20:08.544 [info] > git show --textconv :app.py [7ms]
+2023-01-06 20:20:08.545 [info] > git ls-files --stage -- /home/syed/alihyder/projects/osmania-results/app.py [1ms]
+2023-01-06 20:20:08.551 [info] > git cat-file -s f327af1cb8e4548f80cd9c365b4e4b709bf11356 [0ms]
+2023-01-06 20:20:08.639 [info] > git check-ignore -v -z --stdin [2ms]

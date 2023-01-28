@@ -1,0 +1,8 @@
+2023-01-22 22:02:54.402 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-01-22 22:02:54.760 [warning] No search provider registered for scheme: file, waiting
+2023-01-22 22:02:57.055 [info] [perf] Render performance baseline is 159ms
+2023-01-22 22:02:57.231 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+	at Timeout._onTimeout (/home/syed/.vscode/extensions/tabnine.tabnine-vscode-3.6.36/out/extension.js:17:33014)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7)
+2023-01-22 22:02:57.293 [error] [Extension Host] validating /home/syed/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.223/x86_64-unknown-linux-musl/TabNine timeout

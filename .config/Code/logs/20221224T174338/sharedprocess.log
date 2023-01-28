@@ -1,0 +1,25 @@
+2022-12-24 17:43:40.415 [info] Starting worker process with pid 17296 (type: fileWatcher, window: 1).
+2022-12-24 17:44:06.653 [info] Getting Manifest... pkief.material-icon-theme
+2022-12-24 17:44:06.668 [info] Installing extension: pkief.material-icon-theme
+2022-12-24 17:44:09.132 [info] Extracted extension to /home/syed/.vscode/extensions/.cd9f71ef-5013-447a-bc3f-7f4130135795: pkief.material-icon-theme
+2022-12-24 17:44:09.142 [info] Renamed to /home/syed/.vscode/extensions/pkief.material-icon-theme-4.23.1
+2022-12-24 17:44:09.142 [info] Extracting completed. pkief.material-icon-theme
+2022-12-24 17:44:09.152 [info] Extension installed successfully: pkief.material-icon-theme
+2022-12-24 17:44:22.390 [info] Getting Manifest... equinusocio.vsc-material-theme
+2022-12-24 17:44:22.397 [info] Installing extension: equinusocio.vsc-material-theme
+2022-12-24 17:44:22.843 [info] Getting Manifest... equinusocio.vsc-community-material-theme
+2022-12-24 17:44:23.814 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2022-12-24 17:44:23.884 [info] Installing extension: equinusocio.vsc-community-material-theme equinusocio.vsc-material-theme
+2022-12-24 17:44:23.885 [info] Installing extension: equinusocio.vsc-material-theme-icons equinusocio.vsc-material-theme
+2022-12-24 17:44:25.688 [info] Extracted extension to /home/syed/.vscode/extensions/.d0ea8160-127b-49e0-b1d4-0380f6ab1882: equinusocio.vsc-community-material-theme
+2022-12-24 17:44:25.691 [info] Renamed to /home/syed/.vscode/extensions/equinusocio.vsc-community-material-theme-1.4.4
+2022-12-24 17:44:25.692 [info] Extracting completed. equinusocio.vsc-community-material-theme
+2022-12-24 17:44:29.108 [info] Extracted extension to /home/syed/.vscode/extensions/.576f09af-fdcd-426d-8927-7754c8314b75: equinusocio.vsc-material-theme-icons
+2022-12-24 17:44:29.120 [info] Renamed to /home/syed/.vscode/extensions/equinusocio.vsc-material-theme-icons-2.5.0
+2022-12-24 17:44:29.122 [info] Extracting completed. equinusocio.vsc-material-theme-icons
+2022-12-24 17:44:30.229 [info] Extracted extension to /home/syed/.vscode/extensions/.f7cbf316-9f48-494b-8702-c90a1e113db0: equinusocio.vsc-material-theme
+2022-12-24 17:44:30.234 [info] Renamed to /home/syed/.vscode/extensions/equinusocio.vsc-material-theme-33.6.0
+2022-12-24 17:44:30.236 [info] Extracting completed. equinusocio.vsc-material-theme
+2022-12-24 17:44:30.247 [info] Extension installed successfully: equinusocio.vsc-community-material-theme
+2022-12-24 17:44:30.247 [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+2022-12-24 17:44:30.248 [info] Extension installed successfully: equinusocio.vsc-material-theme

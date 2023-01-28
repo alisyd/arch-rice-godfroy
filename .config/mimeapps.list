@@ -1,0 +1,9 @@
+[Added Associations]
+image/x-xcursor=firefox.desktop;Alacritty.desktop;
+text/markdown=firefox.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=firefox.desktop;
+application/zip=pcmanfm.desktop;
+application/x-cd-image=pcmanfm.desktop;rpcs3.desktop;
+
+[Default Applications]
+x-scheme-handler/msteams=teams.desktop

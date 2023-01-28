@@ -1,0 +1,225 @@
+2023-01-22 15:08:44.955 [info] Extension host with pid 26130 started
+2023-01-22 15:08:44.956 [info] Skipping acquiring lock for /home/syed/.config/Code/User/workspaceStorage/94a3d9632b65aec8c29c4d70b4f4cc7d.
+2023-01-22 15:08:45.012 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-22 15:08:45.013 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-22 15:08:45.013 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-01-22 15:08:45.013 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2023-01-22 15:08:45.193 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-22 15:08:45.193 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-22 15:08:45.242 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-22 15:08:45.242 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-22 15:08:45.242 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-22 15:08:45.243 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-22 15:08:45.366 [info] Eager extensions activated
+2023-01-22 15:08:45.396 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 15:08:45.396 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 15:08:45.396 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 15:08:45.396 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 15:08:45.396 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 15:08:45.396 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-01-22 15:08:45.396 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 15:08:45.473 [info] Extension host terminating: renderer closed the socket
+2023-01-22 15:08:45.482 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at Object.R [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1054)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:7869
+	at Array.forEach (<anonymous>)
+	at u.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:7834)
+	at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9540)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:1397)
+	at b (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:17815)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:15524)
+	at Socket.emit (node:events:538:35)
+	at Pipe.<anonymous> (node:net:687:12) 
+2023-01-22 15:08:45.482 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at Object.R [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1054)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:7869
+	at Array.forEach (<anonymous>)
+	at u.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:7834)
+	at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9540)
+	at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:1397)
+	at b (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:17815)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:15524)
+	at Socket.emit (node:events:538:35)
+	at Pipe.<anonymous> (node:net:687:12) 
+2023-01-22 15:08:45.516 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at new k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:87831)
+	at u.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11245)
+	at G.<computed>.O.charCodeAt.G.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:8535)
+	at U.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:20116)
+	at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:59336)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5) 
+2023-01-22 15:08:45.549 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at new k (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:87831)
+	at u.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:11245)
+	at G.<computed>.O.charCodeAt.G.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:8535)
+	at U.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:20116)
+	at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:59336)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13 
+2023-01-22 15:08:45.555 [error] Activating extension ms-vscode-remote.remote-containers failed due to an error:
+2023-01-22 15:08:45.555 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at async z$ (/home/syed/.vscode/extensions/ms-vscode-remote.remote-containers-0.266.1/dist/extension/extension.js:311:2154)
+	at async qX (/home/syed/.vscode/extensions/ms-vscode-remote.remote-containers-0.266.1/dist/extension/extension.js:318:17666)
+	at async v.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:7006)
+	at async v.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:6969)
+	at async v.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:6426)
+2023-01-22 15:08:46.509 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.509 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.509 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.509 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.509 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.509 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.510 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.511 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.511 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.511 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.511 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.511 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2339
+	at async m.o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1962)
+2023-01-22 15:08:46.518 [error] Error: Channel has been closed
+	at u (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:2944)
+	at Object.trace (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:3166)
+	at h.openRepository (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:2057371)
+	at async n (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:2003018)
+2023-01-22 15:08:46.534 [error] Canceled (FileSystemError): Canceled
+	at Jt.c (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:26282)
+	at Object.createDirectory (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:24680)
+	at async m.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:1687)
+2023-01-22 15:08:47.195 [info] Extension host with pid 26130 exiting with code 0

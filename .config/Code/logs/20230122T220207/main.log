@@ -1,0 +1,4 @@
+2023-01-22 22:02:07.512 [info] update#setState idle
+2023-01-22 22:02:08.805 [info] Starting extension host with pid 4388 (fork() took 9 ms).
+2023-01-22 22:02:34.098 [info] Waiting for extension host with pid 4388 to exit.
+2023-01-22 22:02:34.486 [info] Extension host with pid 4388 exited with code: 0, signal: null.

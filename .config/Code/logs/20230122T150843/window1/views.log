@@ -1,0 +1,14 @@
+2023-01-22 15:08:44.262 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2023-01-22 15:08:44.262 [info] Added views:workbench.panel.output in workbench.panel.output
+2023-01-22 15:08:44.262 [info] Added views:terminal in terminal
+2023-01-22 15:08:44.262 [info] Added views:outline in workbench.view.explorer
+2023-01-22 15:08:44.262 [info] Added views:workbench.scm in workbench.view.scm
+2023-01-22 15:08:44.262 [info] Added views:workbench.view.search in workbench.view.search
+2023-01-22 15:08:44.262 [info] Added views:timeline in workbench.view.explorer
+2023-01-22 15:08:44.262 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2023-01-22 15:08:44.262 [info] Added views:workbench.explorer.openEditorsView in workbench.view.explorer
+2023-01-22 15:08:44.262 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2023-01-22 15:08:44.604 [info] Added views:dockerContainers,dockerImages,dockerRegistries,dockerNetworks,dockerVolumes,vscode-docker.views.dockerContexts,vscode-docker.views.help in workbench.view.extension.dockerView
+2023-01-22 15:08:44.605 [info] Added views:targetsContainers,devVolumes in workbench.view.remote
+2023-01-22 15:08:44.999 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2023-01-22 15:08:45.177 [info] Added views:workbench.panel.comments in workbench.panel.comments

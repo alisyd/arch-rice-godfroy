@@ -1,0 +1,6 @@
+2023-01-22 22:02:53.265 [info] update#setState idle
+2023-01-22 22:02:54.367 [info] Starting extension host with pid 5315 (fork() took 11 ms).
+2023-01-22 22:03:23.268 [info] update#setState checking for updates
+2023-01-22 22:03:23.275 [info] update#setState available for download
+2023-01-22 22:08:50.900 [info] Waiting for extension host with pid 5315 to exit.
+2023-01-22 22:08:51.893 [info] Extension host with pid 5315 exited with code: 0, signal: null.

@@ -1,0 +1,20 @@
+2023-01-06 20:27:19.831 [info] Extension host with pid 20498 started
+2023-01-06 20:27:19.946 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-06 20:27:19.947 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-06 20:27:19.947 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-01-06 20:27:20.002 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-06 20:27:20.003 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-06 20:27:20.063 [info] Eager extensions activated
+2023-01-06 20:27:20.093 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-06 20:27:20.093 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-06 20:27:20.093 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-06 20:27:20.093 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-06 20:27:20.093 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-01-06 20:27:20.094 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-01-06 20:27:20.094 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-06 20:27:20.094 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-06 20:27:20.320 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-01-06 21:29:53.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3122
+2023-01-06 21:30:19.884 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3122
+2023-01-06 21:30:22.300 [info] Extension host terminating: received terminate message from renderer
+2023-01-06 21:30:22.317 [info] Extension host with pid 20498 exiting with code 0
